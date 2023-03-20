@@ -1,5 +1,12 @@
 ## Hello! 👋 My Name is Hasan I am a Jr. Front-End | React Developer
 
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://github.com/Hasan-Arslan2779/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Hasan-Arslan2779&style=for-the-badge">
+</a>
+</p>
+
 ### I am a web developer and I develop projects using the following technologies:
 
 * ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
