@@ -23,12 +23,6 @@
 * 💼 I am currently working as a full-time web developer at Udemig.
 * 🌱 I'm constantly trying to improve myself and I'm currently learning React.
 * 🔭 I develop special projects for myself in my free time.
-## My Projects
-You can take a look at some of my projects below:
-
-* Project 1 https://github.com/Hasan-Arslan2779/kinetix-ayakab--sitesi - I made a Simple shoe website with Animations here
-* Project 2 https://github.com/Hasan-Arslan2779/Portfoli_Website - Portolio Websites
-* Project 3 https://github.com/Hasan-Arslan2779/Digital_Agency_Website - Digital Agency Website
 ## Communication
 You can contact me via the following links:
 
