@@ -1,4 +1,4 @@
-## Hello! 👋 My Name is Hasan I am a Jr. Front-End | React Developer
+## Hello! 👋 My Name is Hasan I am a  Front-End | React Developer
 
 <p align="center"> 
   Visitor count<br>
