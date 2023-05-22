@@ -26,6 +26,6 @@
 ## Communication
 You can contact me via the following links:
 
-* Linkedin => https://www.linkedin.com/in/hasan-arslan-a66b82241/
+* Linkedin => https://www.linkedin.com/in/hasan-arslannn
 * Gmail => hasanar2779@gmail.com
 Thank you!
