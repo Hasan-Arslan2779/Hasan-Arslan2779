@@ -14,7 +14,7 @@
 * ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 * ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=SCSS&logoColor=white)
 * ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white)
-* ![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=F7DF1E) (I'm learning right now)
+* ![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=F7DF1E) 
 * ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 * ![API](https://img.shields.io/badge/API-E44C30?style=flat&logo=git&logoColor=white)
 * ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
