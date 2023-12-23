@@ -1,4 +1,4 @@
-## Hello! 👋 My Name is Hasan I am a  Front-End | React Developer
+## Hello! 👋 My Name is Hasan I am a  Front-End | React | React Native Developer
 
 <p align="center"> 
   Visitor count<br>
@@ -7,7 +7,7 @@
 </a>
 </p>
 
-### I am a web developer and I develop projects using the following technologies:
+### I am a web  and mobile developer and I develop projects using the following technologies:
 
 * ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 * ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,10 +23,12 @@
 * ![Redux](https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=white)
 * ![TailwindCss](https://img.shields.io/badge/Tailwindcss-000000?style=flat&logo=tailwindcss&logoColor=blue)
 * ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white)
+* ![ReactNative](https://img.shields.io/badge/React-Native-000000?style=flat&logo=reactnative&logoColor=white)
+  
 
 ## About Me
 * 💼 I am currently working as a full-time web developer at Udemig.
-* 🌱 I'm constantly trying to improve myself and I'm currently learning React.
+* 🌱 I'm constantly trying to improve myself and I'm currently learning React Native.
 * 🔭 I develop special projects for myself in my free time.
 ## Communication
 You can contact me via the following links:
