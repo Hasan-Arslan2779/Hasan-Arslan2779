@@ -7,8 +7,6 @@
 
 - 💻 I work as a passionate React and React Native Developer
 - 🌱 I'm currently improving my skills in Front End and Reac Native technologies.
-
-- 
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ I can help with FrontEnd & React Native.
 - 📫 How to reach me https://www.linkedin.com/in/hasan-arslannn/
