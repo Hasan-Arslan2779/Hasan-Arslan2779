@@ -5,13 +5,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
 </div>
 
-- 💻 **Role:** Passionate React and React Native Developer
-- 🌱 **Learning:** Continuously improving my skills in Front End and React Native technologies
-- ⚡ **Expertise:** FrontEnd Development & React Native
+- 💻 **Role:** Passionate Full Stack Developer
+- 🌱 **Learning:** Continuously improving my skills in both Frontend & Backend technologies
+- ⚡ **Expertise:** Full Stack Development, React, Node.js, Database Management
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hasan-arslannn/)
 - 👯 **Collaboration:** Open to working harmoniously within a team
-- 💬 **Ask me about:** Anything related to my field
-- 🤝🏻 **Opportunities:** Actively seeking job offers
+- 💬 **Ask me about:** Anything related to Full Stack Development
+- 🤝🏻 **Opportunities:** Actively seeking job offers in Full Stack Development
 
 ---
 
@@ -33,7 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
 </p>
 
 ---
@@ -43,7 +45,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
   <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
 </p>
 
 ---
